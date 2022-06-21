@@ -144,3 +144,12 @@ input:focus {
   text-decoration: none;
   color: #596d48;
 }
+
+.error {
+  border-color: red;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+}
